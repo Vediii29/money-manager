@@ -29,11 +29,13 @@ MoneyManager/
 
 
 🔑 Features
-User authentication & role-based access
-Add, edit, delete, and categorize expenses
-Track income and spending history
-Budget planning & alerts
-Visual reports using charts
+- User authentication & role-based access
+- Add, edit, delete, and categorize expenses
+- Track income and spending history
+- Budget planning & alerts
+- Visual reports using charts
+
+  
 
 📸 Screenshots
 
