@@ -20,9 +20,9 @@ It provides **expense categorization, budget planning, and data visualization** 
 - MySQL (Database)  
 - Maven (Build Tool)  
 
----
 
 ## 📂 Project Structure
+
 MoneyManager/
 │── frontend/ # React app
 │── backend/ # Spring Boot app
